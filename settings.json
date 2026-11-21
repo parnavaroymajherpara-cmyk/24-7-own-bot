@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "privatesmp017.mcsh.gg",
+    "username": "Not_Aloo_017",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "privatesmp016-9fdfbc.play.shulkerboxes.com",
+    "ip": "privatesmp017.mcsh.gg",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
